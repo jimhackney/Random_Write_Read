@@ -1,0 +1,3 @@
+This program is a homework assignment from the University of Missouri course, INFOTC 1040, which is an introduction to Python.
+
+This app consists of two files. The randomread file writes a series of user-inputted random integers to a text file and saves the text file to disk.  The randomread file opens the text file and prints the random integers and a count of the number of random numbers in the file.
